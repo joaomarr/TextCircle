@@ -1,0 +1,14 @@
+.top-margin {
+  margin-top: 50px;
+}
+
+#viewer_iframe {
+  width: 100%;
+  border: 1px solid #808080;
+  resize: both;
+}
+
+.light-border {
+  border: 1px solid gray;
+  width: 100%;
+}
